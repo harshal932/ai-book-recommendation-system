@@ -1,0 +1,6 @@
+feedback_id,timestamp,book_id,title,query_mode,helpful,comments
+FB001,2026-10-12 10:15:30,B030,Clean Code: A Handbook of Agile Software Craftsmanship,hybrid,1,Excellent recommendation for beginner coding practices.
+FB002,2026-10-12 11:20:10,B035,Grokking Algorithms,hybrid,1,Very easy to follow illustrations and algorithm concepts.
+FB003,2026-10-12 14:05:45,B065,Sapiens: A Brief History of Humankind,content_based,1,Engaging historical synthesis.
+FB004,2026-10-13 09:30:12,B073,Meditations,rule_based,1,Great match for beginner stoic philosophy.
+FB005,2026-10-13 14:40:00,B032,Introduction to Algorithms,hybrid,0,Too advanced for an introductory query.

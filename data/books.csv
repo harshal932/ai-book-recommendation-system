@@ -1,0 +1,112 @@
+book_id,title,author,genre,description,publication_year,rating,reading_level
+B001,To Kill a Mockingbird,Harper Lee,Fiction,A classic American novel exploring racial injustice and moral courage in the deep South through the eyes of young Scout Finch.,1960,4.8,Beginner
+B002,1984,George Orwell,Fiction,"A dystopian masterpiece portraying totalitarian surveillance, state propaganda, and the suppression of individual freedom under Big Brother.",1949,4.7,Intermediate
+B003,The Great Gatsby,F. Scott Fitzgerald,Fiction,"A critique of the American Dream set in the Jazz Age, highlighting wealth, obsession, disillusionment, and lost love.",1925,4.4,Intermediate
+B004,Pride and Prejudice,Jane Austen,Fiction,"A witty exploration of manners, social standing, and romance between the sharp-witted Elizabeth Bennet and reserved Mr. Darcy.",1813,4.6,Beginner
+B005,The Catcher in the Rye,J.D. Salinger,Fiction,"The story of Holden Caulfield wandering New York City, grappling with adolescent alienation, grief, and phoniness.",1951,4.1,Beginner
+B006,Brave New World,Aldous Huxley,Fiction,"A prophetic vision of a technologically manufactured, hedonistic society that sacrifices truth and individuality for stability.",1932,4.5,Intermediate
+B007,Crime and Punishment,Fyodor Dostoevsky,Fiction,"A psychological exploration of guilt, moral redemption, and existential suffering through student Rodion Raskolnikov.",1866,4.7,Advanced
+B008,The Brothers Karamazov,Fyodor Dostoevsky,Fiction,"A profound philosophical drama exploring faith, free will, morality, and familial betrayal across three Russian brothers.",1880,4.8,Advanced
+B009,One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,A magical realist epic chronicling seven generations of the Buendia family in the fictional town of Macondo.,1967,4.6,Advanced
+B010,The Hobbit,J.R.R. Tolkien,Fiction,A whimsical high fantasy adventure following Bilbo Baggins as he aids dwarves in reclaiming their homeland from Smaug.,1937,4.7,Beginner
+B011,The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,Fiction,The opening epic journey of Frodo Baggins and his companions to destroy the One Ring and defeat Sauron.,1954,4.8,Intermediate
+B012,Fahrenheit 451,Ray Bradbury,Fiction,A chilling tale of a totalitarian society that burns books to control thought and banish critical contemplation.,1953,4.5,Beginner
+B013,Frankenstein,Mary Shelley,Fiction,A pioneering gothic sci-fi tale of scientist Victor Frankenstein who creates sentient life with tragic ethical consequences.,1818,4.4,Intermediate
+B014,The Alchemist,Paulo Coelho,Fiction,An allegorical fable of an Andalusian shepherd boy journeying to Egypt in search of worldly treasure and personal destiny.,1988,4.3,Beginner
+B015,Jane Eyre,Charlotte Bronte,Fiction,"An inspiring story of an orphaned governess who navigates adversity, autonomy, and moral integrity at Thornfield Hall.",1847,4.6,Intermediate
+B016,Dune,Frank Herbert,Fiction,"A science fiction masterpiece exploring ecology, religion, and politics on the desert planet Arrakis.",1965,4.7,Intermediate
+B017,Neuromancer,William Gibson,Fiction,"The pioneering cyberpunk novel introducing cyberspace, console cowboys, and artificial intelligence intrigue.",1984,4.4,Intermediate
+B018,Snow Crash,Neal Stephenson,Fiction,"A vision of the metaverse, linguistic viruses, and hyper-capitalism in a satirical cyberpunk future.",1992,4.4,Intermediate
+B019,Foundation,Isaac Asimov,Fiction,"A space opera introducing psychohistory, predicting the fall of a galactic empire and efforts to shorten the dark age.",1951,4.6,Beginner
+B020,Do Androids Dream of Electric Sheep?,Philip K. Dick,Fiction,"A bounty hunter tracks rogue androids in post-apocalyptic San Francisco, questioning what it means to be human.",1968,4.5,Intermediate
+B021,A Brief History of Time,Stephen Hawking,Science,"A popular science guide elucidating the origins of the universe, black holes, time, and modern cosmology for general readers.",1988,4.6,Intermediate
+B022,The Selfish Gene,Richard Dawkins,Science,An evolutionary biology perspective arguing that natural selection operates primarily at the gene level rather than the species.,1976,4.5,Intermediate
+B023,Cosmos,Carl Sagan,Science,"A poetic and philosophical tour of cosmic evolution, astronomy, human civilization, and science through time and space.",1980,4.9,Beginner
+B024,Silent Spring,Rachel Carson,Science,The seminal environmental science expose that revealed the dangers of chemical pesticides on ecosystems and public health.,1962,4.5,Intermediate
+B025,The Origin of Species,Charles Darwin,Science,The foundational text of evolutionary biology outlining the mechanism of natural selection and biodiversity.,1859,4.7,Advanced
+B026,The Elegant Universe,Brian Greene,Science,"An accessible introduction to superstring theory, quantum mechanics, and the elusive quest for a unified physical theory.",1999,4.4,Advanced
+B027,Astrophysics for People in a Hurry,Neil deGrasse Tyson,Science,"A quick, engaging primer summarizing the cosmos, dark matter, relativity, and quantum astrophysics for busy readers.",2017,4.5,Beginner
+B028,The Gene: An Intimate History,Siddhartha Mukherjee,Science,"A sweeping historical narrative of genetics from Mendel to CRISPR, weaving human illness, ethics, and biology.",2016,4.8,Intermediate
+B029,The Emperor of All Maladies,Siddhartha Mukherjee,Science,"A comprehensive biography of cancer detailing centuries of research, human resilience, and modern clinical oncology.",2010,4.8,Intermediate
+B030,Chaos: Making a New Science,James Gleick,Science,"An introduction to non-linear dynamic systems, fractal geometry, and the butterfly effect in physical phenomena.",1987,4.4,Intermediate
+B031,What If?: Serious Scientific Answers,Randall Munroe,Science,"Witty, mathematically sound scientific explanations addressing absurd hypothetical physical and cosmological questions.",2014,4.6,Beginner
+B032,The Double Helix,James D. Watson,Science,A personal memoir recounting the competitive scientific race that uncovered the double-helix structure of DNA.,1968,4.2,Intermediate
+B033,Six Easy Pieces,Richard P. Feynman,Science,"Fundamental lectures on physics exploring gravitation, quantum behavior, atoms, and conservation of energy.",1995,4.7,Beginner
+B034,"Quantum: Einstein, Bohr, and the Great Debate",Manjit Kumar,Science,A historical exploration of the intellectual clash between Albert Einstein and Niels Bohr regarding quantum reality.,2008,4.5,Advanced
+B035,A Short History of Nearly Everything,Bill Bryson,Science,"An entertaining, witty chronicle of scientific discovery, geology, particle physics, and Earth evolution.",2003,4.7,Beginner
+B036,The Demon-Haunted World,Carl Sagan,Science,"A passionate defense of scientific skepticism, critical thinking, and the baloney detection kit against superstition.",1995,4.8,Beginner
+B037,Clean Code,Robert C. Martin,Technology,"Best practices and software engineering principles for writing readable, maintainable, and refactorable code.",2008,4.7,Intermediate
+B038,The Pragmatic Programmer,Andrew Hunt and David Thomas,Technology,Core insights and timeless engineering practices for career software developers aiming for technical mastery.,1999,4.8,Intermediate
+B039,Introduction to Algorithms,Thomas H. Cormen et al.,Technology,"The authoritative textbook covering data structures, sorting, graph theory, dynamic programming, and complexity.",2009,4.7,Advanced
+B040,Designing Data-Intensive Applications,Martin Kleppmann,Technology,"A deep dive into distributed systems, storage engines, streaming, consistency models, and reliable architecture.",2017,4.9,Advanced
+B041,Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,Technology,"The leading standard university textbook introducing AI search, logic, knowledge representation, and machine learning.",2020,4.8,Advanced
+B042,Grokking Algorithms,Aditya Bhargava,Technology,"A beginner-friendly, visual illustrated guide to common algorithms including binary search, graphs, and dynamic programming.",2016,4.7,Beginner
+B043,Deep Learning,Ian Goodfellow et al.,Technology,"A foundational theoretical and mathematical textbook covering neural networks, optimization, and generative models.",2016,4.7,Advanced
+B044,Python Crash Course,Eric Matthes,Technology,"A hands-on, project-based introduction to programming in Python, data visualization, web applications, and games.",2015,4.7,Beginner
+B045,Automate the Boring Stuff with Python,Al Sweigart,Technology,A practical guide teaching beginners how to write simple scripts to scrape data and automate tasks.,2015,4.6,Beginner
+B046,You Don't Know JS Yet: Get Started,Kyle Simpson,Technology,"A deep conceptual analysis of JavaScript language mechanics, closures, prototypes, and asynchronous execution.",2020,4.5,Intermediate
+B047,Structure and Interpretation of Computer Programs,Harold Abelson and Gerald Jay Sussman,Technology,"A computer science classic teaching abstraction, functional programming, interpreters, and computational thinking.",1985,4.8,Advanced
+B048,Refactoring: Improving Code Design,Martin Fowler,Technology,A systematic guide to restructuring existing software codebases safely to improve architectural clarity.,1999,4.7,Intermediate
+B049,Continuous Delivery,Jez Humble and David Farley,Technology,"Principles and automated pipelines for reliable, rapid, and reproducible software deployments.",2010,4.6,Advanced
+B050,Pattern Recognition and Machine Learning,Christopher M. Bishop,Technology,A rigorous Bayesian framework textbook detailing statistical machine learning and pattern classification.,2006,4.7,Advanced
+B051,Algorithms to Live By,Brian Christian and Tom Griffiths,Technology,Explores how computer science algorithms like optimal stopping and sorting solve everyday human decision challenges.,2016,4.6,Beginner
+B052,"Superintelligence: Paths, Dangers, Strategies",Nick Bostrom,Technology,A critical philosophical assessment of artificial general intelligence existential risks and alignment mechanisms.,2014,4.3,Advanced
+B053,Code: The Hidden Language,Charles Petzold,Technology,"A clear, captivating journey from flashlights and Morse code to microprocessors and operating systems.",1999,4.8,Beginner
+B054,The Design of Everyday Things,Don Norman,Technology,A cognitive psychology and human-centered design classic on how products should intuitively communicate with users.,1988,4.6,Beginner
+B055,Weapons of Math Destruction,Cathy O'Neil,Technology,"A data scientist warning on how big data algorithms reinforce bias, inequality, and systemic unfairness.",2016,4.4,Beginner
+B056,The Master Algorithm,Pedro Domingos,Technology,An engaging overview of machine learning five main tribes and the quest for a universal learning algorithm.,2015,4.3,Intermediate
+B057,Life 3.0,Max Tegmark,Technology,"A physicist exploration of artificial intelligence, future society, consciousness, and cosmic superintelligence.",2017,4.5,Intermediate
+B058,Atomic Habits,James Clear,Self-Help,"A framework for building positive habits, breaking bad ones, and mastering small behavioral changes through compounding.",2018,4.9,Beginner
+B059,Deep Work,Cal Newport,Self-Help,Practical strategies for cultivating intense concentration and cognitive depth in an era of constant digital distractions.,2016,4.6,Beginner
+B060,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,A principle-centered approach for solving personal and professional problems based on proactive ethics and synergy.,1989,4.7,Beginner
+B061,"Thinking, Fast and Slow",Daniel Kahneman,Self-Help,A Nobel laureate exploration of dual-process cognitive psychology: intuitive fast thinking versus deliberative slow thinking.,2011,4.6,Intermediate
+B062,Mindset: The New Psychology of Success,Carol S. Dweck,Self-Help,"The transformative power of adopting a growth mindset over a fixed mindset in education, sports, and business.",2006,4.5,Beginner
+B063,Man's Search for Meaning,Viktor E. Frankl,Self-Help,A psychiatrist memoir of surviving concentration camps and developing logotherapy based on finding life purpose.,1946,4.8,Intermediate
+B064,Can't Hurt Me,David Goggins,Self-Help,"A memoir emphasizing extreme mental toughness, overcoming childhood trauma, and pushing beyond physical limitations.",2018,4.7,Beginner
+B065,Essentialism: The Disciplined Pursuit of Less,Greg McKeown,Self-Help,"A systematic discipline for discerning what is absolutely essential, eliminating everything else, and reclaiming focus.",2014,4.5,Beginner
+B066,The Power of Now,Eckhart Tolle,Self-Help,A spiritual guide to mindfulness and finding tranquility by detaching from egoic thoughts and living in the present.,1997,4.4,Beginner
+B067,Make Time,Jake Knapp and John Zeratsky,Self-Help,"A practical toolkit for designing daily routines, reducing app distractions, and preserving mental energy.",2018,4.4,Beginner
+B068,Grit: The Power of Passion,Angela Duckworth,Self-Help,An empirical investigation demonstrating that long-term passion and persistence outweigh innate talent in achievement.,2016,4.5,Beginner
+B069,Crucial Conversations,Joseph Grenny et al.,Self-Help,"Practical communication techniques for resolving disagreements, emotional high-stakes negotiations, and workplace tension.",2002,4.6,Beginner
+B070,Quiet: The Power of Introverts,Susan Cain,Self-Help,"A cultural and psychological validation of introverted strengths in leadership, creativity, and deep thought.",2012,4.6,Beginner
+B071,Zero to One,Peter Thiel,Business,"Insights into creating technological monopolies, unique innovation, venture capitalism, and contrarian startup thinking.",2014,4.6,Beginner
+B072,The Lean Startup,Eric Ries,Business,"A methodology for rapid experimentation, validated learning, and minimum viable products for entrepreneurial ventures.",2011,4.5,Beginner
+B073,Good to Great,Jim Collins,Business,An empirical research study identifying why certain companies achieve sustained greatness while others remain mediocre.,2001,4.6,Intermediate
+B074,Principles: Life and Work,Ray Dalio,Business,The Bridgewater Associates founder shares unconventional principles based on radical truth and meritocratic decisions.,2017,4.6,Intermediate
+B075,The Innovator's Dilemma,Clayton M. Christensen,Business,A foundational business analysis of disruptive technology and why established market leaders fail during technological shifts.,1997,4.5,Advanced
+B076,Shoe Dog: A Memoir,Phil Knight,Business,"An intimate, candid memoir recounting the early chaotic startup days of Nike, supply chains, and building a global brand.",2016,4.8,Beginner
+B077,Measure What Matters,John Doerr,Business,A practical handbook on how Objectives and Key Results (OKRs) drive explosive alignment and growth in top tech companies.,2018,4.4,Beginner
+B078,Bad Blood,John Carreyrou,Business,"An investigative narrative detailing the fraud, deception, and downfall of Elizabeth Holmes and blood-testing firm Theranos.",2018,4.8,Beginner
+B079,Competitive Strategy,Michael E. Porter,Business,"The definitive guide to industrial organization economics, five forces analysis, and creating competitive business advantages.",1980,4.6,Advanced
+B080,Thinking in Bets,Annie Duke,Business,A former poker champion teaches probabilistic decision-making and handling uncertainty in high-stakes environments.,2018,4.4,Beginner
+B081,Hooked: How to Build Habit-Forming Products,Nir Eyal,Business,"A behavioral design guide explaining the trigger, action, variable reward, and investment loop behind addictive products.",2014,4.4,Beginner
+B082,Start with Why,Simon Sinek,Business,Explaining the Golden Circle framework and why great leaders inspire action by communicating purpose before features.,2009,4.5,Beginner
+B083,Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,"An exhilarating overview of human history, exploring cognitive, agricultural, and scientific revolutions shaping humanity.",2014,4.7,Beginner
+B084,"Guns, Germs, and Steel",Jared Diamond,History,A geographical and ecological analysis of why Eurasian societies conquered other civilizations throughout history.,1997,4.4,Intermediate
+B085,The Silk Roads: A New History,Peter Frankopan,History,A panoramic reassessment of world history centering on the economic and cultural networks connecting the East and West.,2015,4.6,Intermediate
+B086,Postwar: A History of Europe,Tony Judt,History,"A monumental history of modern European reconstruction, Cold War division, and political integration after World War II.",2005,4.8,Advanced
+B087,A People's History of the United States,Howard Zinn,History,"A bottom-up historical perspective highlighting working-class movements, minorities, and grassroots struggles in America.",1980,4.4,Intermediate
+B088,The Rise and Fall of the Third Reich,William L. Shirer,History,A thorough journalistic history chronicling the Nazi regime from Adolf Hitler rise to the cataclysm of World War II.,1960,4.7,Advanced
+B089,SPQR: A History of Ancient Rome,Mary Beard,History,"A fresh, scholarly account of ancient Rome from its mythological founding to imperial dominion and everyday Roman citizenship.",2015,4.5,Intermediate
+B090,Team of Rivals,Doris Kearns Goodwin,History,A biographical study of Lincoln mastery in unifying a divided cabinet and guiding the nation through civil war.,2005,4.8,Intermediate
+B091,Guns of August,Barbara W. Tuchman,History,"A narrative history of the fateful opening month of World War I, miscalculations, and diplomatic failures.",1962,4.6,Intermediate
+B092,The Wright Brothers,David McCullough,History,The inspiring true story of the two bicycle mechanics from Dayton who systematically unlocked human flight.,2015,4.7,Beginner
+B093,Meditations,Marcus Aurelius,Philosophy,"Private reflective journals of the Roman Emperor practicing Stoic philosophy, self-discipline, resilience, and virtue.",180,4.7,Beginner
+B094,The Republic,Plato,Philosophy,"A foundational philosophical dialogue exploring justice, the ideal state, education, and the allegory of the cave.",-375,4.5,Intermediate
+B095,Beyond Good and Evil,Friedrich Nietzsche,Philosophy,"A provocative critique of traditional Western morality, truth, dogmatism, and the will to power in modern culture.",1886,4.4,Advanced
+B096,Nicomachean Ethics,Aristotle,Philosophy,"Aristotle classical inquiry into eudaimonia, moral virtue, character habits, and the rational pursuit of happiness.",-350,4.5,Advanced
+B097,Critique of Pure Reason,Immanuel Kant,Philosophy,"A rigorous investigation into epistemology, synthetic a priori judgments, and the boundaries of human reason.",1781,4.3,Advanced
+B098,Being and Time,Martin Heidegger,Philosophy,"A groundbreaking existential phenomenological inquiry into Dasein, temporality, authentic existence, and being.",1927,4.2,Advanced
+B099,Letters from a Stoic,Seneca,Philosophy,"Practical moral letters offering timeless wisdom on friendship, grief, wealth, tranquility, and resilience.",65,4.7,Beginner
+B100,The Myth of Sisyphus,Albert Camus,Philosophy,An existential essay introducing the concept of the absurd and arguing for living with passionate defiance.,1942,4.5,Intermediate
+B101,Justice: What's the Right Thing to Do?,Michael J. Sandel,Philosophy,"A Harvard professor invites readers to deliberate ethical dilemmas, utilitarianism, and justice in public life.",2009,4.6,Beginner
+B102,The Structure of Scientific Revolutions,Thomas S. Kuhn,Philosophy,The landmark work introducing paradigm shifts and showing how scientific theories change through conceptual crises.,1962,4.6,Advanced
+B103,The Daily Stoic,Ryan Holiday and Stephen Hanselman,Philosophy,"366 days of Stoic insights and meditations translated from Seneca, Epictetus, and Marcus Aurelius.",2016,4.7,Beginner
+B104,Pedagogy of the Oppressed,Paulo Freire,Education,"A foundational critical pedagogy treatise advocating for dialogue, critical consciousness, and liberating education.",1968,4.6,Intermediate
+B105,How Children Succeed,Paul Tough,Education,Investigating how non-cognitive character skills like perseverance and emotional regulation drive academic achievement.,2012,4.4,Beginner
+B106,Mindstorms: Children and Computers,Seymour Papert,Education,"The visionary educational treatise advocating computational thinking, constructionism, and creative learning with Logo.",1980,4.6,Intermediate
+B107,Visible Learning,John Hattie,Education,"A synthesis of over 800 meta-analyses relating to achievement, identifying what classroom practices actually work.",2008,4.5,Advanced
+B108,The Courage to Teach,Parker J. Palmer,Education,"An inspirational reflection on the inner life of educators, teaching authentic identity, and forming learning communities.",1997,4.5,Beginner
+B109,Make It Stick: The Science of Learning,Peter C. Brown et al.,Education,"Cognitive science evidence proving that active retrieval, spacing, and interleaving produce durable retention.",2014,4.7,Beginner
+B110,Why Don't Students Like School?,Daniel T. Willingham,Education,"A cognitive scientist explains how the mind learns, why memory is the residue of thought, and practical pedagogy.",2009,4.6,Beginner
+B111,Range: Why Generalists Triumph,David Epstein,Education,An empirical argument showing that generalists who explore diverse fields outperform narrow specialists in complex domains.,2019,4.6,Beginner
